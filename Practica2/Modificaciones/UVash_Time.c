@@ -1,4 +1,4 @@
-// Práctica 2 - Javier Ramos Jimeno
+// Javier Ramos Jimeno
 
 #include <stdio.h>
 #include <stdlib.h>
